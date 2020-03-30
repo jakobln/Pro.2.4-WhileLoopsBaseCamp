@@ -1,0 +1,11 @@
+C:\Code\Pro.2.4 - WhileLoopsBaseCamp\bin\Debug\netcoreapp3.1\WhileLoopsBaseCamp.exe
+C:\Code\Pro.2.4 - WhileLoopsBaseCamp\bin\Debug\netcoreapp3.1\WhileLoopsBaseCamp.deps.json
+C:\Code\Pro.2.4 - WhileLoopsBaseCamp\bin\Debug\netcoreapp3.1\WhileLoopsBaseCamp.runtimeconfig.json
+C:\Code\Pro.2.4 - WhileLoopsBaseCamp\bin\Debug\netcoreapp3.1\WhileLoopsBaseCamp.runtimeconfig.dev.json
+C:\Code\Pro.2.4 - WhileLoopsBaseCamp\bin\Debug\netcoreapp3.1\WhileLoopsBaseCamp.dll
+C:\Code\Pro.2.4 - WhileLoopsBaseCamp\bin\Debug\netcoreapp3.1\WhileLoopsBaseCamp.pdb
+C:\Code\Pro.2.4 - WhileLoopsBaseCamp\obj\Debug\netcoreapp3.1\WhileLoopsBaseCamp.csprojAssemblyReference.cache
+C:\Code\Pro.2.4 - WhileLoopsBaseCamp\obj\Debug\netcoreapp3.1\WhileLoopsBaseCamp.AssemblyInfoInputs.cache
+C:\Code\Pro.2.4 - WhileLoopsBaseCamp\obj\Debug\netcoreapp3.1\WhileLoopsBaseCamp.AssemblyInfo.cs
+C:\Code\Pro.2.4 - WhileLoopsBaseCamp\obj\Debug\netcoreapp3.1\WhileLoopsBaseCamp.dll
+C:\Code\Pro.2.4 - WhileLoopsBaseCamp\obj\Debug\netcoreapp3.1\WhileLoopsBaseCamp.pdb
